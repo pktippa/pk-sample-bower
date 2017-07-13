@@ -1,0 +1,22 @@
+{
+  "name": "pk-sample-bower",
+  "authors": [
+    "Pradeep Kumar Tippa <pradeep_tippa@edgevere.com>"
+  ],
+  "description": "Sample Bower package",
+  "main": "index.js",
+  "keywords": [
+    "Sample",
+    "bower"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "version": "0.0.1"
+}
